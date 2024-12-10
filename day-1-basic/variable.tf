@@ -13,8 +13,3 @@ variable "key_name" {
     description ="this is key name"
     default = ""
 }
-variable "subnet_id" {
-    type = string
-    description = "this is subnet id"
-    default = "subnet-073485a1d2a7276a6"
-}
